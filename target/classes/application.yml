@@ -1,0 +1,18 @@
+spring:
+  mail:
+    host: smtp.163.com
+    username: 13120716616@163.com
+    password: Lixiuwen24
+    default-encoding: UTF-8
+  rabbitmq:
+    host: 47.100.89.70
+    username: guest
+    password: guest
+
+
+mail:
+  fromMail:
+    addr: 13120716616@163.com
+
+server:
+  port: 10011

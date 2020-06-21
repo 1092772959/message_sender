@@ -1,0 +1,6 @@
+com/shu/icpc/Component/mq/Mail.class
+com/shu/icpc/Component/RabbitConsumer.class
+com/shu/icpc/MessageServiceApplication.class
+com/shu/icpc/Component/CommonsEmailService.class
+com/shu/icpc/Component/RabbitMQConfig.class
+com/shu/icpc/Component/MailService.class
